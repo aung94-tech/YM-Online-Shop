@@ -205,4 +205,8 @@ footer {
     .product {
         width: 100%;
     }
+      .product-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 }
